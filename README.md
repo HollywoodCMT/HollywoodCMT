@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...learning how this works.
 - 🌱 I’m currently learning ...a little at a time. 
 - 💞️ I’m looking to collaborate on ...not sure yet.
-- 📫 How to reach me ...cmt.1234567a@gmail.com 
+- 📫 How to reach me ...Message me here.
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: ...
 
