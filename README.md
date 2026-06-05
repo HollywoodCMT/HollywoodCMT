@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @HollywoodCMT
 - 👀 I’m interested in ...learning how this works.
-- 🌱 I’m currently learning ...a little at a time. 
+- 🌱 I’m currently learning how to manage on powershell
 - 💞️ I’m looking to collaborate on ...not sure yet.
 - 📫 How to reach me ...Message me here.
 - 😄 Pronouns: He/Him.
-- ⚡ Fun fact: ...I have no idea what I'm doing.
+- ⚡ Fun fact: ...
 
 <!---
 HollywoodCMT/HollywoodCMT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
